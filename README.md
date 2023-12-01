@@ -16,7 +16,7 @@ ai-case-study
 -	C3.ai has developed a unique set of applications, collectively called the C3.ai Suite, which enables clients to quickly and effortlessly integrate digital transformation applications.  The use a unique model driven architecture to allow for rapid development and implementation. Along with this, the company has a patent on the model-based solution. 
 -	At a high level, the company uses big data, IoT, AI/predictive analytics, machine learning, elastic cloud computing.  The company integrates these broad stroke technologies on a SaaS platform to solve AI problems for enterprise partners at industrial and commercial scale.
 
-## LANDSCAPE
+## Landscape
 
 -  C3.ai is in the information technology industry.
 -  Over the past decade, the enterprise solution segment in the IT sector has been transformed by the adoption of cloud computing, AI and ML, with a focus on enhanced cybersecurity, big data analytics, IoT integration, mobile technology, and automation. This evolution reflects a shift towards more efficient, customized, and user-friendly solutions.

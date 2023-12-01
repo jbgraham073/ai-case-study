@@ -9,7 +9,7 @@ ai-case-study
 •	C3.ai has evolved its branding and product portfolio over the years to achieve market leadership like many of the tech giants (spanning many industries and applications).  C3.ai was founded with a focus on developing software for cloud computing, big data, and predictive analytics.
 •	C3.ai has received a total of $410M in funding, including 15 investors (13 institutional / 2 angels), all over 9 rounds of funding.  The largest round to date was $100M in 2018.
 
-##Business Activities
+## Business Activities
 
 •	C3.ai aims to efficiently and economically support the development of large-scale enterprise AI applications, surpassing other know market methods in effectiveness, spanning a wide variety of industries.
 •	C3.ai casts a wide net targeting a vast range of potential enterprise customers.  Targeted segments include manufacturing, financial services, government, utilities, oil and gas, chemicals, agriculture, defense and intelligence. With the wide range of target segments, the overall market size was estimated in 2020 to be approximately $174 billion.
